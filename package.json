@@ -1,0 +1,30 @@
+{
+  "name": "bookmanagementsystem",
+  "version": "1.0.0",
+  "description": "Book Manager ",
+  "homepage": "https://github.com/abhishekmishra173/bookManagementSystem#readme",
+  "bugs": {
+    "url": "https://github.com/abhishekmishra173/bookManagementSystem/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhishekmishra173/bookManagementSystem.git"
+  },
+  "license": "ISC",
+  "author": "Abhishek Mishra",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
