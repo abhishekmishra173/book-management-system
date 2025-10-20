@@ -51,8 +51,6 @@ To restore node_modules and package-lock.json --> npm i/npm install
 
 npm i mongoose npm install mongodb
 
-mongodb+srv://rohankinnal1917:<db_password>@cluster0.v4yias1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 EJOCHEEAheUjejJJ mongodb+srv://rohankinnal1917:EJOCHEEAheUjejJJ@cluster0.v4yias1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
 npm i dotenv
 
 ## MVC Architecture
